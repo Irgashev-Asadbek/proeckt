@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+list-style: none;
+}
+.bosh li {
+    margin-left: 20px;
+    margin-top: 20px;
+ display: flex;
+ }
+ 
+.bosh-brinchi-li{
+   color: #31353B;
+}
+.bosh-ikkinchi-li{
+        display: flex;
+        color: #ff0000;
+}
+.imi{
+display: flex;
+}
+.lolo{
+    padding-left: 22px;
+}
+.si{
+    padding-left: 250px;
+}
+.suuu{
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.oo{
+    padding-left: 270px;
+    padding-top: 50px;
+}
+.ulo{
+    margin-top: 50px;
+    margin-left: 280px;
+}
+.super{
+        margin-top: 20px;
+        margin-left: 280px;
+}
+.puper{
+    display: flex;
+}
